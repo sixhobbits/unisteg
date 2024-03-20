@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sixhobbits/unisteg">
-    <img alt="Unisteg" title="Unisteg" src="./unisteg.png" width="400" style="color: black">
+    <img alt="Unisteg" title="Unisteg" src="./unisteg.png" width="100" style="color: black">
   </a>
 </p>
 
