@@ -24,7 +24,7 @@ There are [16 unicode selectors](https://en.wikipedia.org/wiki/Variation_Selecto
 
 Probably just copy the 30 lines of Python code from the unisteg.py file to your own project to be honest. Not everything needs to be a library. If you want, you can install it from this repo using pip. It's not on pypi.
 
-Here's the full source code for easy of reference or copy-pasta.
+Here's the full source code for easy reference or copy-pasta.
 
 ```python
 import base64
