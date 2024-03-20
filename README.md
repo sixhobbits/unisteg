@@ -10,10 +10,6 @@
   <a href="https://github.com/sixhobbits/unisteg">unisteg</a>
 </p>
 
-<h1 align="center">
-Unisteg
-</h1>
-
 <br/>
 
 Unisteg (from unicode steganography) lets you hide one string in another string by using [invisible unicode characters](https://invisible-characters.com/), specifically it uses `U+E0100 VARIATION SELECTOR-17` thru `U+E0180 VARIATION SELECTOR-145`, which gives 128 characters. That means it can encode any ASCII string, and therefore any base64 string.
