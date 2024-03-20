@@ -21,7 +21,7 @@ def decode(s):
             pass
     return ''.join(plain)
 
-def add(m, s):
+def add(m, s=""):
     """Adds a message to a string"""
     b64 = base64.b64encode(m.encode("utf8")).decode("utf8")
     hidden = encode(b64)
